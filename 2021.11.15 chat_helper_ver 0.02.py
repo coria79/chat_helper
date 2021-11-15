@@ -1,8 +1,3 @@
-# https://pythonbros.com/como-controlar-el-mouse-con-python/
-# https://pythonbros.com/controlar-el-teclado-con-python/
-# https://decodigo.com/python-leer-un-archivo-de-texto
-
-
 import mouse
 from win32api import GetSystemMetrics
 import keyboard
